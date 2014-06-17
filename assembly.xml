@@ -11,7 +11,6 @@
       <includes>
         <include>/lib/</include>
         <include>/vendor/</include>
-        <include>logstash-kafka.gemspec</include>
       </includes>
       <outputDirectory>/</outputDirectory>
     </fileSet>
